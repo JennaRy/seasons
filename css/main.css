@@ -1,0 +1,40 @@
+/***** BASE STYLES *****/
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #2b2b2b;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Lora', sans-serif;
+    color: #2b2b2b;
+    font-size: 48px;
+    font-weight: 700;
+    margin: 50px 80px;
+}
+
+h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #2b2b2b;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+header img {
+	height: 550px;
+}
+
+/***** GRID *****/
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.half-width {
+	display: inline-block;
+	float: left;
+	margin-left: 80px;
+	padding: 20px;
+    width: 500px;
+}
